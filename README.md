@@ -5,7 +5,7 @@
 Github Project
 
 ### Description
-Describe what your project is about and what it does
+Learning Git repository and using bikeshare data to provide an example project.
 
 ### Files used
 Include the files used
