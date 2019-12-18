@@ -1,11 +1,11 @@
 ### Date created
-Include the date you created this project and README file.
+12/17/19
 
 ### Project Title
-Replace the Project Title
+Github Project
 
 ### Description
-Describe what your project is about and what it does
+Learning Git repository and using bikeshare data to provide an example project.
 
 ### Files used
 Include the files used
